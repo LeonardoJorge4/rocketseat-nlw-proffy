@@ -2,15 +2,18 @@
 
 # IMAGENS DO SITE EM DESKTOP
 
-![proffy-home](https://user-images.githubusercontent.com/69438854/103488876-20569600-4def-11eb-92ef-5593e55fc0e3.png)
-![proffy-aulas1](https://user-images.githubusercontent.com/69438854/103488877-20ef2c80-4def-11eb-9c14-ba9a52e30857.png)
-![proffy-aulas2](https://user-images.githubusercontent.com/69438854/103488878-20ef2c80-4def-11eb-9d36-c9d84b2581da.png)
-![proffy-prof1](https://user-images.githubusercontent.com/69438854/103488879-2187c300-4def-11eb-9a5a-5abc9dffecee.png)
-![proffy-prof2](https://user-images.githubusercontent.com/69438854/103488880-2187c300-4def-11eb-8f5b-2a40a342fbde.png)
+![proffy-home](https://user-images.githubusercontent.com/69438854/103490645-040d2600-4dfc-11eb-90dd-f3ed4b2d3b67.png)
+![proffy-aulas1](https://user-images.githubusercontent.com/69438854/103490643-02dbf900-4dfc-11eb-9763-781934aa722a.png)
+![proffy-aulas2](https://user-images.githubusercontent.com/69438854/103490644-03748f80-4dfc-11eb-824b-e9edac990ad8.png)
+![proffy-prof1](https://user-images.githubusercontent.com/69438854/103490650-053e5300-4dfc-11eb-977f-2f798ad3ad92.png)
+![proffy-prof2](https://user-images.githubusercontent.com/69438854/103490651-05d6e980-4dfc-11eb-9d1c-0f7b32c37469.png)
 
 # MOBILE
 
-![proffy-mobHome](https://user-images.githubusercontent.com/69438854/103488916-572cac00-4def-11eb-9ea6-542d88a67fb9.png)
-![proffy-mobAulas1](https://user-images.githubusercontent.com/69438854/103488918-57c54280-4def-11eb-9e3c-6ba1a78c98ee.png)
-![proffy-mobAulas2](https://user-images.githubusercontent.com/69438854/103488919-585dd900-4def-11eb-9166-e2c9f26ac729.png)
-![proffy-mobProffy](https://user-images.githubusercontent.com/69438854/103488920-585dd900-4def-11eb-9040-2a281e7c1a4f.png)
+![proffy-mobHome](https://user-images.githubusercontent.com/69438854/103490648-04a5bc80-4dfc-11eb-8470-c43b8d04429b.png)
+![proffy-mobAulas1](https://user-images.githubusercontent.com/69438854/103490646-040d2600-4dfc-11eb-9417-137a65d951c1.png)
+![proffy-mobAulas2](https://user-images.githubusercontent.com/69438854/103490647-04a5bc80-4dfc-11eb-9a83-73826b00d258.png)
+![proffy-mobProffy](https://user-images.githubusercontent.com/69438854/103490649-053e5300-4dfc-11eb-93c9-91ab8cf1aa5f.png)
+
+
+
