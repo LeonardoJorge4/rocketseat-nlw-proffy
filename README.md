@@ -10,10 +10,12 @@
 
 # MOBILE
 
-![proffy-mobHome](https://user-images.githubusercontent.com/69438854/103490648-04a5bc80-4dfc-11eb-8470-c43b8d04429b.png)
-![proffy-mobAulas1](https://user-images.githubusercontent.com/69438854/103490646-040d2600-4dfc-11eb-9417-137a65d951c1.png)
-![proffy-mobAulas2](https://user-images.githubusercontent.com/69438854/103490647-04a5bc80-4dfc-11eb-9a83-73826b00d258.png)
-![proffy-mobProffy](https://user-images.githubusercontent.com/69438854/103490649-053e5300-4dfc-11eb-93c9-91ab8cf1aa5f.png)
+![proffy-mobHome](https://user-images.githubusercontent.com/69438854/103490718-75e56f80-4dfc-11eb-946e-5fadfbbf36df.png)
+![proffy-mobAulas1](https://user-images.githubusercontent.com/69438854/103490715-75e56f80-4dfc-11eb-9a3d-1e5f3e0341dc.png)
+![proffy-mobAulas2](https://user-images.githubusercontent.com/69438854/103490717-75e56f80-4dfc-11eb-9ca7-67682e309ec8.png)
+![proffy-mobProffy](https://user-images.githubusercontent.com/69438854/103490712-74b44280-4dfc-11eb-9463-96fbcbf661e7.png)
+
+
 
 
 
