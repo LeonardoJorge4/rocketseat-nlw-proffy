@@ -1,4 +1,4 @@
-# Site desenvolvido na Next Level Week, organizado pela rocketseat, site feito como uma homenagem para o dia dos professores. O site é totalmente responsivo para tablets e dispositivos mobile. Foi utilizado Javascript, HTML, CSS.
+## Site desenvolvido na Next Level Week, organizado pela rocketseat, site feito como uma homenagem para o dia dos professores. O site é totalmente responsivo para tablets e dispositivos mobile. Foi utilizado Javascript, HTML, CSS.
 
 # IMAGENS DO SITE EM DESKTOP
 -------------------------------------------
@@ -8,7 +8,7 @@
 ![proffy-prof1](https://user-images.githubusercontent.com/69438854/103488879-2187c300-4def-11eb-9a5a-5abc9dffecee.png)
 ![proffy-prof2](https://user-images.githubusercontent.com/69438854/103488880-2187c300-4def-11eb-8f5b-2a40a342fbde.png)
 
-### MOBILE
+# MOBILE
 -------------------------------------------
 
 ![proffy-mobHome](https://user-images.githubusercontent.com/69438854/103488916-572cac00-4def-11eb-9ea6-542d88a67fb9.png)
