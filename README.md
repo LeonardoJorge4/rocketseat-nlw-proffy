@@ -1,4 +1,4 @@
-# Site desenvolvido na Next Level Week, organizado pela rocketseat, site feito como uma homenagem para o dia dos professores.
+# Site desenvolvido na Next Level Week, organizado pela rocketseat, site feito como uma homenagem para o dia dos professores. O site é totalmente responsivo para tablets e dispositivos mobile. Utilizando Javascript, HTML, CSS.
 
 ### IMAGENS DO SITE EM DESKTOP
 -------------------------------------------
